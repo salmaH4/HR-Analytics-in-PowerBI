@@ -14,8 +14,11 @@ In this dataset I used a snowflake schema as it's a complex data structure with 
 
 ## The Final Dashboard
 ![image](https://github.com/salmaH4/HR-Analytics-in-PowerBI/assets/110805003/7ba1ffcf-1b57-4b7d-833c-a3d6c29c8866)
+
 ![image](https://github.com/salmaH4/HR-Analytics-in-PowerBI/assets/110805003/e865bb40-4663-4a59-ab5c-60e7040eef40)
+
 ![image](https://github.com/salmaH4/HR-Analytics-in-PowerBI/assets/110805003/7466823d-9706-400e-8bee-476d4406055c)
+
 ![image](https://github.com/salmaH4/HR-Analytics-in-PowerBI/assets/110805003/8cc36af4-a149-4c9c-abc5-80f342747197)
 
 
